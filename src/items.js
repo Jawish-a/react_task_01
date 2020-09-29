@@ -18,13 +18,6 @@ const items = [{
         image: "https://cdn.shopify.com/s/files/1/0984/4522/products/Node_JS_Men_s_Programming_T-shirt_men1_grande.jpg?v=1571501184",
 
     },
-    {
-        id: 3,
-        name: "NodeJS Tshirt",
-        price: 70,
-        image: "https://cdn.shopify.com/s/files/1/0984/4522/products/Node_JS_Men_s_Programming_T-shirt_men1_grande.jpg?v=1571501184",
-
-    }
 ]
 
 export default items
